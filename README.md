@@ -76,7 +76,7 @@ params.beta     = 0.5;  % output gap ağırlığı
 
 ## Sonuçlar
 
-Model, 2010–2019 döneminde gerçek faizle makul uyum göstermektedir. 2020 sonrasında ise fark belirgin biçimde açılmaktadır. Bu durum, Taylor modelinin büyüme öncelikli politika tercihlerini — pandemi borçlanmasının azaltılması ve ekonominin desteklenmesi gibi — yapısal olarak yansıtamamasından kaynaklanmaktadır. 2022'de model ile gerçek faiz arasındaki fark 216 puana ulaşmıştır.
+Model, 2010–2019 döneminde gerçek faizle makul uyum göstermektedir. 2020 sonrasında ise fark belirgin biçimde açılmaktadır. Bu durum, Taylor modelinin büyüme öncelikli politika tercihlerini (pandemi borçlanmasının azaltılması, ekonominin desteklenmesi vb.) yapısal olarak yansıtamamasından kaynaklanmaktadır. 2022'de model ile gerçek faiz arasındaki fark 216 puana ulaşmıştır.
 
 ---
 
