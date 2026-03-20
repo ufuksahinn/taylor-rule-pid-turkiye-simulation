@@ -1,0 +1,6 @@
+*.asv
+*.m~
+__pycache__/
+*.pyc
+.DS_Store
+veriler/
